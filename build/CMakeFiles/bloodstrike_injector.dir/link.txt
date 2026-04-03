@@ -1,0 +1,1 @@
+/usr/bin/c++ -O3 -DNDEBUG -Wl,--dependency-file=CMakeFiles/bloodstrike_injector.dir/link.d CMakeFiles/bloodstrike_injector.dir/src/injector_main.cpp.o CMakeFiles/bloodstrike_injector.dir/src/stealth_injector.cpp.o -o bloodstrike-injector  -ldl -lpthread

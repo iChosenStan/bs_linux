@@ -1,0 +1,9 @@
+/home/jigga/Documents/GitHub/bloodstrike_linux/build/CMakeFiles/bloodstrike_linux.dir
+/home/jigga/Documents/GitHub/bloodstrike_linux/build/CMakeFiles/bloodstrike_injector.dir
+/home/jigga/Documents/GitHub/bloodstrike_linux/build/CMakeFiles/bloodstrike_loader.dir
+/home/jigga/Documents/GitHub/bloodstrike_linux/build/CMakeFiles/edit_cache.dir
+/home/jigga/Documents/GitHub/bloodstrike_linux/build/CMakeFiles/rebuild_cache.dir
+/home/jigga/Documents/GitHub/bloodstrike_linux/build/CMakeFiles/list_install_components.dir
+/home/jigga/Documents/GitHub/bloodstrike_linux/build/CMakeFiles/install.dir
+/home/jigga/Documents/GitHub/bloodstrike_linux/build/CMakeFiles/install/local.dir
+/home/jigga/Documents/GitHub/bloodstrike_linux/build/CMakeFiles/install/strip.dir

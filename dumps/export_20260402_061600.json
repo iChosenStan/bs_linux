@@ -1,0 +1,31 @@
+{
+  "timestamp": "20260402_061600",
+  "globals": {
+    "GWorld": "0x0",
+    "GNames": "0x0",
+    "GUObjectArray": "0x0"
+  },
+  "offsets": {
+    "UObject": {
+      "VTable": "0x0",
+      "ObjectFlags": "0x8",
+      "InternalIndex": "0xc",
+      "Class": "0x10",
+      "Name": "0x18",
+      "Outer": "0x20"
+    },
+    "UClass": {
+      "SuperClass": "0x28",
+      "PropertiesSize": "0x54",
+      "Children": "0x30"
+    },
+    "UProperty": {
+      "ArrayDim": "0x38",
+      "ElementSize": "0x3c",
+      "PropertyFlags": "0x40",
+      "Offset_Internal": "0x4c"
+    }
+  },
+  "structs": {},
+  "functions": {}
+}

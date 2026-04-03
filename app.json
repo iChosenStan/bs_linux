@@ -1,0 +1,32 @@
+{
+  "expo": {
+    "name": "BloodStrike Loader",
+    "slug": "bloodstrike-loader",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "dark",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#0a0b10"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.bloodstrike.loader"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#0a0b10"
+      },
+      "package": "com.bloodstrike.loader"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
