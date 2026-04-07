@@ -1,7 +1,7 @@
 CMakeFiles/bloodstrike_linux.dir/src/pixelbot.cpp.o: \
- /home/jigga/Documents/GitHub/bloodstrike_linux/src/pixelbot.cpp \
+ /home/jigga/Documents/bloodstrike_linux/bloodstrike_linux/src/pixelbot.cpp \
  /usr/include/stdc-predef.h \
- /home/jigga/Documents/GitHub/bloodstrike_linux/src/pixelbot.h \
+ /home/jigga/Documents/bloodstrike_linux/bloodstrike_linux/src/pixelbot.h \
  /usr/include/c++/15/cstdint \
  /usr/include/c++/15/x86_64-redhat-linux/bits/c++config.h \
  /usr/include/bits/wordsize.h \
@@ -110,7 +110,7 @@ CMakeFiles/bloodstrike_linux.dir/src/pixelbot.cpp.o: \
  /usr/include/X11/X.h /usr/include/X11/Xfuncproto.h \
  /usr/include/X11/Xosdefs.h /usr/include/X11/Xutil.h \
  /usr/include/X11/keysym.h /usr/include/X11/keysymdef.h \
- /home/jigga/Documents/GitHub/bloodstrike_linux/src/anticheat_bypass.h \
+ /home/jigga/Documents/bloodstrike_linux/bloodstrike_linux/src/anticheat_bypass.h \
  /usr/include/c++/15/cstring /usr/include/string.h /usr/include/strings.h \
  /usr/include/c++/15/cmath /usr/include/math.h \
  /usr/include/bits/math-vector.h /usr/include/bits/libm-simd-decl-stubs.h \

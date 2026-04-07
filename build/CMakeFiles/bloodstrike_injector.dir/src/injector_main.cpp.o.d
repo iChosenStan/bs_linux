@@ -1,5 +1,5 @@
 CMakeFiles/bloodstrike_injector.dir/src/injector_main.cpp.o: \
- /home/jigga/Documents/GitHub/bloodstrike_linux/src/injector_main.cpp \
+ /home/jigga/Documents/bloodstrike_linux/bloodstrike_linux/src/injector_main.cpp \
  /usr/include/stdc-predef.h /usr/include/c++/15/iostream \
  /usr/include/c++/15/bits/requires_hosted.h \
  /usr/include/c++/15/x86_64-redhat-linux/bits/c++config.h \
@@ -139,7 +139,7 @@ CMakeFiles/bloodstrike_injector.dir/src/injector_main.cpp.o: \
  /usr/include/c++/15/bits/istream.tcc /usr/include/c++/15/cstring \
  /usr/include/string.h /usr/include/strings.h /usr/include/getopt.h \
  /usr/include/bits/getopt_core.h /usr/include/bits/getopt_ext.h \
- /home/jigga/Documents/GitHub/bloodstrike_linux/src/stealth_injector.h \
+ /home/jigga/Documents/bloodstrike_linux/bloodstrike_linux/src/stealth_injector.h \
  /usr/include/c++/15/cstdint \
  /usr/lib/gcc/x86_64-redhat-linux/15/include/stdint.h \
  /usr/include/stdint.h /usr/include/bits/stdint-uintn.h \

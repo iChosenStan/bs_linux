@@ -1,8 +1,8 @@
 CMakeFiles/bloodstrike_linux.dir/src/menu.cpp.o: \
- /home/jigga/Documents/GitHub/bloodstrike_linux/src/menu.cpp \
+ /home/jigga/Documents/bloodstrike_linux/bloodstrike_linux/src/menu.cpp \
  /usr/include/stdc-predef.h \
- /home/jigga/Documents/GitHub/bloodstrike_linux/src/menu.h \
- /home/jigga/Documents/GitHub/bloodstrike_linux/src/cheat_features.h \
+ /home/jigga/Documents/bloodstrike_linux/bloodstrike_linux/src/menu.h \
+ /home/jigga/Documents/bloodstrike_linux/bloodstrike_linux/src/cheat_features.h \
  /usr/include/c++/15/cstdint \
  /usr/include/c++/15/x86_64-redhat-linux/bits/c++config.h \
  /usr/include/bits/wordsize.h \
@@ -73,8 +73,8 @@ CMakeFiles/bloodstrike_linux.dir/src/menu.cpp.o: \
  /usr/include/c++/15/cerrno /usr/include/c++/15/ext/atomicity.h \
  /usr/include/c++/15/x86_64-redhat-linux/bits/atomic_word.h \
  /usr/include/sys/single_threaded.h \
- /home/jigga/Documents/GitHub/bloodstrike_linux/src/offsets.h \
- /home/jigga/Documents/GitHub/bloodstrike_linux/src/renderer.h \
+ /home/jigga/Documents/bloodstrike_linux/bloodstrike_linux/src/offsets.h \
+ /home/jigga/Documents/bloodstrike_linux/bloodstrike_linux/src/renderer.h \
  /usr/include/vulkan/vulkan.h /usr/include/vulkan/vk_platform.h \
  /usr/include/vulkan/vulkan_core.h \
  /usr/include/vk_video/vulkan_video_codec_h264std.h \
@@ -93,8 +93,8 @@ CMakeFiles/bloodstrike_linux.dir/src/menu.cpp.o: \
  /usr/include/vk_video/vulkan_video_codec_vp9std.h \
  /usr/include/vk_video/vulkan_video_codec_vp9std_decode.h \
  /usr/include/vk_video/vulkan_video_codec_vp9std.h \
- /home/jigga/Documents/GitHub/bloodstrike_linux/src/input.h \
- /home/jigga/Documents/GitHub/bloodstrike_linux/src/skin_changer.h \
+ /home/jigga/Documents/bloodstrike_linux/bloodstrike_linux/src/input.h \
+ /home/jigga/Documents/bloodstrike_linux/bloodstrike_linux/src/skin_changer.h \
  /usr/include/c++/15/string /usr/include/c++/15/bits/stringfwd.h \
  /usr/include/c++/15/bits/memoryfwd.h \
  /usr/include/c++/15/bits/char_traits.h \
@@ -162,9 +162,9 @@ CMakeFiles/bloodstrike_linux.dir/src/menu.cpp.o: \
  /usr/include/c++/15/bits/stl_map.h \
  /usr/include/c++/15/bits/stl_multimap.h \
  /usr/include/c++/15/bits/erase_if.h \
- /home/jigga/Documents/GitHub/bloodstrike_linux/libs/imgui/imgui.h \
- /home/jigga/Documents/GitHub/bloodstrike_linux/libs/imgui/imconfig.h \
+ /home/jigga/Documents/bloodstrike_linux/bloodstrike_linux/libs/imgui/imgui.h \
+ /home/jigga/Documents/bloodstrike_linux/bloodstrike_linux/libs/imgui/imconfig.h \
  /usr/lib/gcc/x86_64-redhat-linux/15/include/float.h \
  /usr/include/string.h /usr/include/strings.h /usr/include/assert.h \
- /home/jigga/Documents/GitHub/bloodstrike_linux/libs/imgui/backends/imgui_impl_glfw.h \
- /home/jigga/Documents/GitHub/bloodstrike_linux/libs/imgui/backends/imgui_impl_vulkan.h
+ /home/jigga/Documents/bloodstrike_linux/bloodstrike_linux/libs/imgui/backends/imgui_impl_glfw.h \
+ /home/jigga/Documents/bloodstrike_linux/bloodstrike_linux/libs/imgui/backends/imgui_impl_vulkan.h

@@ -1,7 +1,7 @@
 CMakeFiles/bloodstrike_linux.dir/src/cheat_features.cpp.o: \
- /home/jigga/Documents/GitHub/bloodstrike_linux/src/cheat_features.cpp \
+ /home/jigga/Documents/bloodstrike_linux/bloodstrike_linux/src/cheat_features.cpp \
  /usr/include/stdc-predef.h \
- /home/jigga/Documents/GitHub/bloodstrike_linux/src/cheat_features.h \
+ /home/jigga/Documents/bloodstrike_linux/bloodstrike_linux/src/cheat_features.h \
  /usr/include/c++/15/cstdint \
  /usr/include/c++/15/x86_64-redhat-linux/bits/c++config.h \
  /usr/include/bits/wordsize.h \
@@ -72,8 +72,8 @@ CMakeFiles/bloodstrike_linux.dir/src/cheat_features.cpp.o: \
  /usr/include/c++/15/cerrno /usr/include/c++/15/ext/atomicity.h \
  /usr/include/c++/15/x86_64-redhat-linux/bits/atomic_word.h \
  /usr/include/sys/single_threaded.h \
- /home/jigga/Documents/GitHub/bloodstrike_linux/src/offsets.h \
- /home/jigga/Documents/GitHub/bloodstrike_linux/src/renderer.h \
+ /home/jigga/Documents/bloodstrike_linux/bloodstrike_linux/src/offsets.h \
+ /home/jigga/Documents/bloodstrike_linux/bloodstrike_linux/src/renderer.h \
  /usr/include/vulkan/vulkan.h /usr/include/vulkan/vk_platform.h \
  /usr/include/vulkan/vulkan_core.h \
  /usr/include/vk_video/vulkan_video_codec_h264std.h \

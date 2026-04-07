@@ -1,7 +1,7 @@
 CMakeFiles/bloodstrike_linux.dir/src/esp.cpp.o: \
- /home/jigga/Documents/GitHub/bloodstrike_linux/src/esp.cpp \
+ /home/jigga/Documents/bloodstrike_linux/bloodstrike_linux/src/esp.cpp \
  /usr/include/stdc-predef.h \
- /home/jigga/Documents/GitHub/bloodstrike_linux/src/esp.h \
+ /home/jigga/Documents/bloodstrike_linux/bloodstrike_linux/src/esp.h \
  /usr/include/c++/15/vector /usr/include/c++/15/bits/requires_hosted.h \
  /usr/include/c++/15/x86_64-redhat-linux/bits/c++config.h \
  /usr/include/bits/wordsize.h \
@@ -101,7 +101,7 @@ CMakeFiles/bloodstrike_linux.dir/src/esp.cpp.o: \
  /usr/include/asm-generic/errno-base.h /usr/include/bits/types/error_t.h \
  /usr/include/c++/15/bits/charconv.h \
  /usr/include/c++/15/bits/basic_string.tcc \
- /home/jigga/Documents/GitHub/bloodstrike_linux/src/entity_manager.h \
+ /home/jigga/Documents/bloodstrike_linux/bloodstrike_linux/src/entity_manager.h \
  /usr/include/c++/15/memory /usr/include/c++/15/bits/stl_tempbuf.h \
  /usr/include/c++/15/bits/stl_raw_storage_iter.h \
  /usr/include/c++/15/bits/align.h /usr/include/c++/15/bits/unique_ptr.h \
@@ -174,7 +174,7 @@ CMakeFiles/bloodstrike_linux.dir/src/esp.cpp.o: \
  /usr/include/c++/15/tr1/poly_laguerre.tcc \
  /usr/include/c++/15/tr1/riemann_zeta.tcc /usr/include/c++/15/cstring \
  /usr/include/string.h /usr/include/strings.h \
- /home/jigga/Documents/GitHub/bloodstrike_linux/src/game_offsets.h \
+ /home/jigga/Documents/bloodstrike_linux/bloodstrike_linux/src/game_offsets.h \
  /usr/include/c++/15/iostream /usr/include/c++/15/ostream \
  /usr/include/c++/15/bits/ostream.h /usr/include/c++/15/ios \
  /usr/include/c++/15/bits/ios_base.h \
@@ -192,11 +192,11 @@ CMakeFiles/bloodstrike_linux.dir/src/esp.cpp.o: \
  /usr/include/c++/15/bits/basic_ios.tcc \
  /usr/include/c++/15/bits/ostream.tcc /usr/include/c++/15/istream \
  /usr/include/c++/15/bits/istream.tcc \
- /home/jigga/Documents/GitHub/bloodstrike_linux/libs/imgui/imgui.h \
- /home/jigga/Documents/GitHub/bloodstrike_linux/libs/imgui/imconfig.h \
+ /home/jigga/Documents/bloodstrike_linux/bloodstrike_linux/libs/imgui/imgui.h \
+ /home/jigga/Documents/bloodstrike_linux/bloodstrike_linux/libs/imgui/imconfig.h \
  /usr/lib/gcc/x86_64-redhat-linux/15/include/float.h \
  /usr/include/assert.h \
- /home/jigga/Documents/GitHub/bloodstrike_linux/libs/imgui/backends/imgui_impl_vulkan.h \
+ /home/jigga/Documents/bloodstrike_linux/bloodstrike_linux/libs/imgui/backends/imgui_impl_vulkan.h \
  /usr/include/vulkan/vulkan.h /usr/include/vulkan/vk_platform.h \
  /usr/include/vulkan/vulkan_core.h \
  /usr/include/vk_video/vulkan_video_codec_h264std.h \

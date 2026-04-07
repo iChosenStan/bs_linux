@@ -1,7 +1,7 @@
 CMakeFiles/bloodstrike_linux.dir/src/offset_scanner.cpp.o: \
- /home/jigga/Documents/GitHub/bloodstrike_linux/src/offset_scanner.cpp \
+ /home/jigga/Documents/bloodstrike_linux/bloodstrike_linux/src/offset_scanner.cpp \
  /usr/include/stdc-predef.h \
- /home/jigga/Documents/GitHub/bloodstrike_linux/src/offset_scanner.h \
+ /home/jigga/Documents/bloodstrike_linux/bloodstrike_linux/src/offset_scanner.h \
  /usr/include/c++/15/string /usr/include/c++/15/bits/requires_hosted.h \
  /usr/include/c++/15/x86_64-redhat-linux/bits/c++config.h \
  /usr/include/bits/wordsize.h \

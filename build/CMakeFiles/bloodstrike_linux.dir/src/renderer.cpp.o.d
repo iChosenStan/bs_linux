@@ -1,7 +1,7 @@
 CMakeFiles/bloodstrike_linux.dir/src/renderer.cpp.o: \
- /home/jigga/Documents/GitHub/bloodstrike_linux/src/renderer.cpp \
+ /home/jigga/Documents/bloodstrike_linux/bloodstrike_linux/src/renderer.cpp \
  /usr/include/stdc-predef.h \
- /home/jigga/Documents/GitHub/bloodstrike_linux/src/renderer.h \
+ /home/jigga/Documents/bloodstrike_linux/bloodstrike_linux/src/renderer.h \
  /usr/include/c++/15/cstdint \
  /usr/include/c++/15/x86_64-redhat-linux/bits/c++config.h \
  /usr/include/bits/wordsize.h \
@@ -37,15 +37,15 @@ CMakeFiles/bloodstrike_linux.dir/src/renderer.cpp.o: \
  /usr/include/vk_video/vulkan_video_codec_vp9std.h \
  /usr/include/vk_video/vulkan_video_codec_vp9std_decode.h \
  /usr/include/vk_video/vulkan_video_codec_vp9std.h \
- /home/jigga/Documents/GitHub/bloodstrike_linux/libs/imgui/imgui.h \
- /home/jigga/Documents/GitHub/bloodstrike_linux/libs/imgui/imconfig.h \
+ /home/jigga/Documents/bloodstrike_linux/bloodstrike_linux/libs/imgui/imgui.h \
+ /home/jigga/Documents/bloodstrike_linux/bloodstrike_linux/libs/imgui/imconfig.h \
  /usr/lib/gcc/x86_64-redhat-linux/15/include/float.h \
  /usr/lib/gcc/x86_64-redhat-linux/15/include/stdarg.h \
  /usr/include/string.h /usr/include/bits/types/locale_t.h \
  /usr/include/bits/types/__locale_t.h /usr/include/strings.h \
  /usr/include/assert.h \
- /home/jigga/Documents/GitHub/bloodstrike_linux/libs/imgui/backends/imgui_impl_glfw.h \
- /home/jigga/Documents/GitHub/bloodstrike_linux/libs/imgui/backends/imgui_impl_vulkan.h \
+ /home/jigga/Documents/bloodstrike_linux/bloodstrike_linux/libs/imgui/backends/imgui_impl_glfw.h \
+ /home/jigga/Documents/bloodstrike_linux/bloodstrike_linux/libs/imgui/backends/imgui_impl_vulkan.h \
  /usr/include/GLFW/glfw3.h /usr/include/GL/gl.h /usr/include/GL/glext.h \
  /usr/include/KHR/khrplatform.h /usr/include/vulkan/vulkan.hpp \
  /usr/include/vulkan/vulkan_hpp_macros.hpp /usr/include/c++/15/ciso646 \

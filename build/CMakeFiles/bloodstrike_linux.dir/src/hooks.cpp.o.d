@@ -1,7 +1,7 @@
 CMakeFiles/bloodstrike_linux.dir/src/hooks.cpp.o: \
- /home/jigga/Documents/GitHub/bloodstrike_linux/src/hooks.cpp \
+ /home/jigga/Documents/bloodstrike_linux/bloodstrike_linux/src/hooks.cpp \
  /usr/include/stdc-predef.h \
- /home/jigga/Documents/GitHub/bloodstrike_linux/src/hooks.h \
+ /home/jigga/Documents/bloodstrike_linux/bloodstrike_linux/src/hooks.h \
  /usr/include/c++/15/cstdint \
  /usr/include/c++/15/x86_64-redhat-linux/bits/c++config.h \
  /usr/include/bits/wordsize.h \
@@ -67,7 +67,7 @@ CMakeFiles/bloodstrike_linux.dir/src/hooks.cpp.o: \
  /usr/include/c++/15/bits/stl_bvector.h \
  /usr/include/c++/15/bits/vector.tcc /usr/include/c++/15/array \
  /usr/include/c++/15/compare \
- /home/jigga/Documents/GitHub/bloodstrike_linux/src/cheat_features.h \
+ /home/jigga/Documents/bloodstrike_linux/bloodstrike_linux/src/cheat_features.h \
  /usr/include/c++/15/atomic /usr/include/c++/15/bits/atomic_base.h \
  /usr/include/c++/15/bits/atomic_lockfree_defines.h \
  /usr/include/c++/15/mutex /usr/include/errno.h /usr/include/bits/errno.h \
@@ -108,7 +108,7 @@ CMakeFiles/bloodstrike_linux.dir/src/hooks.cpp.o: \
  /usr/include/c++/15/cerrno /usr/include/c++/15/ext/atomicity.h \
  /usr/include/c++/15/x86_64-redhat-linux/bits/atomic_word.h \
  /usr/include/sys/single_threaded.h \
- /home/jigga/Documents/GitHub/bloodstrike_linux/src/offsets.h \
+ /home/jigga/Documents/bloodstrike_linux/bloodstrike_linux/src/offsets.h \
  /usr/include/c++/15/cstring /usr/include/string.h /usr/include/strings.h \
  /usr/include/sys/mman.h /usr/include/bits/mman.h \
  /usr/include/bits/mman-map-flags-generic.h \

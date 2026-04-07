@@ -1,7 +1,7 @@
 CMakeFiles/bloodstrike_linux.dir/src/entity_manager.cpp.o: \
- /home/jigga/Documents/GitHub/bloodstrike_linux/src/entity_manager.cpp \
+ /home/jigga/Documents/bloodstrike_linux/bloodstrike_linux/src/entity_manager.cpp \
  /usr/include/stdc-predef.h \
- /home/jigga/Documents/GitHub/bloodstrike_linux/src/entity_manager.h \
+ /home/jigga/Documents/bloodstrike_linux/bloodstrike_linux/src/entity_manager.h \
  /usr/include/c++/15/vector /usr/include/c++/15/bits/requires_hosted.h \
  /usr/include/c++/15/x86_64-redhat-linux/bits/c++config.h \
  /usr/include/bits/wordsize.h \
@@ -156,7 +156,7 @@ CMakeFiles/bloodstrike_linux.dir/src/entity_manager.cpp.o: \
  /usr/include/c++/15/tr1/poly_laguerre.tcc \
  /usr/include/c++/15/tr1/riemann_zeta.tcc /usr/include/c++/15/cstring \
  /usr/include/string.h /usr/include/strings.h \
- /home/jigga/Documents/GitHub/bloodstrike_linux/src/game_offsets.h \
+ /home/jigga/Documents/bloodstrike_linux/bloodstrike_linux/src/game_offsets.h \
  /usr/include/c++/15/algorithm /usr/include/c++/15/bits/stl_algo.h \
  /usr/include/c++/15/bits/algorithmfwd.h \
  /usr/include/c++/15/bits/stl_heap.h \
@@ -200,22 +200,47 @@ CMakeFiles/bloodstrike_linux.dir/src/entity_manager.cpp.o: \
  /usr/include/c++/15/bits/fstream.tcc /usr/include/c++/15/iostream \
  /usr/include/c++/15/cfloat \
  /usr/lib/gcc/x86_64-redhat-linux/15/include/float.h \
- /usr/include/sys/uio.h /usr/include/bits/types/struct_iovec.h \
- /usr/include/bits/uio_lim.h /usr/include/bits/uio-ext.h \
- /usr/include/sys/ptrace.h /usr/include/bits/ptrace-shared.h \
- /usr/include/unistd.h /usr/include/bits/posix_opt.h \
- /usr/include/bits/environments.h /usr/include/bits/confname.h \
- /usr/include/bits/getopt_posix.h /usr/include/bits/getopt_core.h \
- /usr/include/bits/unistd_ext.h /usr/include/linux/close_range.h \
- /usr/include/fcntl.h /usr/include/bits/fcntl.h \
- /usr/include/bits/fcntl-linux.h /usr/include/linux/falloc.h \
- /usr/include/bits/stat.h /usr/include/bits/struct_stat.h \
- /usr/include/dirent.h /usr/include/bits/dirent.h \
- /usr/include/bits/posix1_lim.h /usr/include/bits/local_lim.h \
- /usr/include/linux/limits.h /usr/include/bits/dirent_ext.h \
- /usr/include/sys/wait.h /usr/include/signal.h \
- /usr/include/bits/signum-generic.h /usr/include/bits/signum-arch.h \
- /usr/include/bits/types/sig_atomic_t.h \
+ /home/jigga/Documents/bloodstrike_linux/bloodstrike_linux/src/offset_scanner.h \
+ /usr/include/c++/15/map /usr/include/c++/15/bits/stl_tree.h \
+ /usr/include/c++/15/bits/stl_map.h \
+ /usr/include/c++/15/bits/stl_multimap.h /usr/include/c++/15/thread \
+ /usr/include/c++/15/bits/std_thread.h \
+ /usr/include/c++/15/bits/this_thread_sleep.h /usr/include/c++/15/regex \
+ /usr/include/c++/15/bitset /usr/include/c++/15/locale \
+ /usr/include/c++/15/bits/locale_facets_nonio.h \
+ /usr/include/c++/15/x86_64-redhat-linux/bits/time_members.h \
+ /usr/include/c++/15/x86_64-redhat-linux/bits/messages_members.h \
+ /usr/include/libintl.h /usr/include/c++/15/bits/locale_facets_nonio.tcc \
+ /usr/include/c++/15/bits/locale_conv.h /usr/include/c++/15/sstream \
+ /usr/include/c++/15/bits/sstream.tcc /usr/include/c++/15/stack \
+ /usr/include/c++/15/deque /usr/include/c++/15/bits/stl_deque.h \
+ /usr/include/c++/15/bits/deque.tcc /usr/include/c++/15/bits/stl_stack.h \
+ /usr/include/c++/15/bits/regex_constants.h \
+ /usr/include/c++/15/bits/regex_error.h \
+ /usr/include/c++/15/bits/regex_automaton.h \
+ /usr/include/c++/15/bits/regex_automaton.tcc \
+ /usr/include/c++/15/bits/regex_scanner.h \
+ /usr/include/c++/15/bits/regex_scanner.tcc \
+ /usr/include/c++/15/bits/regex_compiler.h \
+ /usr/include/c++/15/bits/regex_compiler.tcc \
+ /usr/include/c++/15/bits/regex.h /usr/include/c++/15/bits/regex.tcc \
+ /usr/include/c++/15/bits/regex_executor.h \
+ /usr/include/c++/15/bits/regex_executor.tcc /usr/include/sys/uio.h \
+ /usr/include/bits/types/struct_iovec.h /usr/include/bits/uio_lim.h \
+ /usr/include/bits/uio-ext.h /usr/include/sys/ptrace.h \
+ /usr/include/bits/ptrace-shared.h /usr/include/unistd.h \
+ /usr/include/bits/posix_opt.h /usr/include/bits/environments.h \
+ /usr/include/bits/confname.h /usr/include/bits/getopt_posix.h \
+ /usr/include/bits/getopt_core.h /usr/include/bits/unistd_ext.h \
+ /usr/include/linux/close_range.h /usr/include/fcntl.h \
+ /usr/include/bits/fcntl.h /usr/include/bits/fcntl-linux.h \
+ /usr/include/linux/falloc.h /usr/include/bits/stat.h \
+ /usr/include/bits/struct_stat.h /usr/include/dirent.h \
+ /usr/include/bits/dirent.h /usr/include/bits/posix1_lim.h \
+ /usr/include/bits/local_lim.h /usr/include/linux/limits.h \
+ /usr/include/bits/dirent_ext.h /usr/include/sys/wait.h \
+ /usr/include/signal.h /usr/include/bits/signum-generic.h \
+ /usr/include/bits/signum-arch.h /usr/include/bits/types/sig_atomic_t.h \
  /usr/include/bits/types/siginfo_t.h /usr/include/bits/types/__sigval_t.h \
  /usr/include/bits/siginfo-arch.h /usr/include/bits/siginfo-consts.h \
  /usr/include/bits/siginfo-consts-arch.h \

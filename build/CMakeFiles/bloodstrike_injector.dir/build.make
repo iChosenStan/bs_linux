@@ -53,10 +53,10 @@ RM = /usr/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/jigga/Documents/GitHub/bloodstrike_linux
+CMAKE_SOURCE_DIR = /home/jigga/Documents/bloodstrike_linux/bloodstrike_linux
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/jigga/Documents/GitHub/bloodstrike_linux/build
+CMAKE_BINARY_DIR = /home/jigga/Documents/bloodstrike_linux/bloodstrike_linux/build
 
 # Include any dependencies generated for this target.
 include CMakeFiles/bloodstrike_injector.dir/depend.make
@@ -73,32 +73,32 @@ CMakeFiles/bloodstrike_injector.dir/codegen:
 .PHONY : CMakeFiles/bloodstrike_injector.dir/codegen
 
 CMakeFiles/bloodstrike_injector.dir/src/injector_main.cpp.o: CMakeFiles/bloodstrike_injector.dir/flags.make
-CMakeFiles/bloodstrike_injector.dir/src/injector_main.cpp.o: /home/jigga/Documents/GitHub/bloodstrike_linux/src/injector_main.cpp
+CMakeFiles/bloodstrike_injector.dir/src/injector_main.cpp.o: /home/jigga/Documents/bloodstrike_linux/bloodstrike_linux/src/injector_main.cpp
 CMakeFiles/bloodstrike_injector.dir/src/injector_main.cpp.o: CMakeFiles/bloodstrike_injector.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/jigga/Documents/GitHub/bloodstrike_linux/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/bloodstrike_injector.dir/src/injector_main.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/bloodstrike_injector.dir/src/injector_main.cpp.o -MF CMakeFiles/bloodstrike_injector.dir/src/injector_main.cpp.o.d -o CMakeFiles/bloodstrike_injector.dir/src/injector_main.cpp.o -c /home/jigga/Documents/GitHub/bloodstrike_linux/src/injector_main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/jigga/Documents/bloodstrike_linux/bloodstrike_linux/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/bloodstrike_injector.dir/src/injector_main.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/bloodstrike_injector.dir/src/injector_main.cpp.o -MF CMakeFiles/bloodstrike_injector.dir/src/injector_main.cpp.o.d -o CMakeFiles/bloodstrike_injector.dir/src/injector_main.cpp.o -c /home/jigga/Documents/bloodstrike_linux/bloodstrike_linux/src/injector_main.cpp
 
 CMakeFiles/bloodstrike_injector.dir/src/injector_main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/bloodstrike_injector.dir/src/injector_main.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/jigga/Documents/GitHub/bloodstrike_linux/src/injector_main.cpp > CMakeFiles/bloodstrike_injector.dir/src/injector_main.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/jigga/Documents/bloodstrike_linux/bloodstrike_linux/src/injector_main.cpp > CMakeFiles/bloodstrike_injector.dir/src/injector_main.cpp.i
 
 CMakeFiles/bloodstrike_injector.dir/src/injector_main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/bloodstrike_injector.dir/src/injector_main.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/jigga/Documents/GitHub/bloodstrike_linux/src/injector_main.cpp -o CMakeFiles/bloodstrike_injector.dir/src/injector_main.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/jigga/Documents/bloodstrike_linux/bloodstrike_linux/src/injector_main.cpp -o CMakeFiles/bloodstrike_injector.dir/src/injector_main.cpp.s
 
 CMakeFiles/bloodstrike_injector.dir/src/stealth_injector.cpp.o: CMakeFiles/bloodstrike_injector.dir/flags.make
-CMakeFiles/bloodstrike_injector.dir/src/stealth_injector.cpp.o: /home/jigga/Documents/GitHub/bloodstrike_linux/src/stealth_injector.cpp
+CMakeFiles/bloodstrike_injector.dir/src/stealth_injector.cpp.o: /home/jigga/Documents/bloodstrike_linux/bloodstrike_linux/src/stealth_injector.cpp
 CMakeFiles/bloodstrike_injector.dir/src/stealth_injector.cpp.o: CMakeFiles/bloodstrike_injector.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/jigga/Documents/GitHub/bloodstrike_linux/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/bloodstrike_injector.dir/src/stealth_injector.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/bloodstrike_injector.dir/src/stealth_injector.cpp.o -MF CMakeFiles/bloodstrike_injector.dir/src/stealth_injector.cpp.o.d -o CMakeFiles/bloodstrike_injector.dir/src/stealth_injector.cpp.o -c /home/jigga/Documents/GitHub/bloodstrike_linux/src/stealth_injector.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/jigga/Documents/bloodstrike_linux/bloodstrike_linux/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/bloodstrike_injector.dir/src/stealth_injector.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/bloodstrike_injector.dir/src/stealth_injector.cpp.o -MF CMakeFiles/bloodstrike_injector.dir/src/stealth_injector.cpp.o.d -o CMakeFiles/bloodstrike_injector.dir/src/stealth_injector.cpp.o -c /home/jigga/Documents/bloodstrike_linux/bloodstrike_linux/src/stealth_injector.cpp
 
 CMakeFiles/bloodstrike_injector.dir/src/stealth_injector.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/bloodstrike_injector.dir/src/stealth_injector.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/jigga/Documents/GitHub/bloodstrike_linux/src/stealth_injector.cpp > CMakeFiles/bloodstrike_injector.dir/src/stealth_injector.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/jigga/Documents/bloodstrike_linux/bloodstrike_linux/src/stealth_injector.cpp > CMakeFiles/bloodstrike_injector.dir/src/stealth_injector.cpp.i
 
 CMakeFiles/bloodstrike_injector.dir/src/stealth_injector.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/bloodstrike_injector.dir/src/stealth_injector.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/jigga/Documents/GitHub/bloodstrike_linux/src/stealth_injector.cpp -o CMakeFiles/bloodstrike_injector.dir/src/stealth_injector.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/jigga/Documents/bloodstrike_linux/bloodstrike_linux/src/stealth_injector.cpp -o CMakeFiles/bloodstrike_injector.dir/src/stealth_injector.cpp.s
 
 # Object files for target bloodstrike_injector
 bloodstrike_injector_OBJECTS = \
@@ -113,9 +113,9 @@ bloodstrike-injector: CMakeFiles/bloodstrike_injector.dir/src/stealth_injector.c
 bloodstrike-injector: CMakeFiles/bloodstrike_injector.dir/build.make
 bloodstrike-injector: CMakeFiles/bloodstrike_injector.dir/compiler_depend.ts
 bloodstrike-injector: CMakeFiles/bloodstrike_injector.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/home/jigga/Documents/GitHub/bloodstrike_linux/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX executable bloodstrike-injector"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/home/jigga/Documents/bloodstrike_linux/bloodstrike_linux/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX executable bloodstrike-injector"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/bloodstrike_injector.dir/link.txt --verbose=$(VERBOSE)
-	strip -s /home/jigga/Documents/GitHub/bloodstrike_linux/build/bloodstrike-injector
+	strip -s /home/jigga/Documents/bloodstrike_linux/bloodstrike_linux/build/bloodstrike-injector
 
 # Rule to build all files generated by this target.
 CMakeFiles/bloodstrike_injector.dir/build: bloodstrike-injector
@@ -126,6 +126,6 @@ CMakeFiles/bloodstrike_injector.dir/clean:
 .PHONY : CMakeFiles/bloodstrike_injector.dir/clean
 
 CMakeFiles/bloodstrike_injector.dir/depend:
-	cd /home/jigga/Documents/GitHub/bloodstrike_linux/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/jigga/Documents/GitHub/bloodstrike_linux /home/jigga/Documents/GitHub/bloodstrike_linux /home/jigga/Documents/GitHub/bloodstrike_linux/build /home/jigga/Documents/GitHub/bloodstrike_linux/build /home/jigga/Documents/GitHub/bloodstrike_linux/build/CMakeFiles/bloodstrike_injector.dir/DependInfo.cmake "--color=$(COLOR)"
+	cd /home/jigga/Documents/bloodstrike_linux/bloodstrike_linux/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/jigga/Documents/bloodstrike_linux/bloodstrike_linux /home/jigga/Documents/bloodstrike_linux/bloodstrike_linux /home/jigga/Documents/bloodstrike_linux/bloodstrike_linux/build /home/jigga/Documents/bloodstrike_linux/bloodstrike_linux/build /home/jigga/Documents/bloodstrike_linux/bloodstrike_linux/build/CMakeFiles/bloodstrike_injector.dir/DependInfo.cmake "--color=$(COLOR)"
 .PHONY : CMakeFiles/bloodstrike_injector.dir/depend
 

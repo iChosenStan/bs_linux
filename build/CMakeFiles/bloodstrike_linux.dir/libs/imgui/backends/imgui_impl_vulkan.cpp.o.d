@@ -1,8 +1,8 @@
 CMakeFiles/bloodstrike_linux.dir/libs/imgui/backends/imgui_impl_vulkan.cpp.o: \
- /home/jigga/Documents/GitHub/bloodstrike_linux/libs/imgui/backends/imgui_impl_vulkan.cpp \
+ /home/jigga/Documents/bloodstrike_linux/bloodstrike_linux/libs/imgui/backends/imgui_impl_vulkan.cpp \
  /usr/include/stdc-predef.h \
- /home/jigga/Documents/GitHub/bloodstrike_linux/libs/imgui/imgui.h \
- /home/jigga/Documents/GitHub/bloodstrike_linux/libs/imgui/imconfig.h \
+ /home/jigga/Documents/bloodstrike_linux/bloodstrike_linux/libs/imgui/imgui.h \
+ /home/jigga/Documents/bloodstrike_linux/bloodstrike_linux/libs/imgui/imconfig.h \
  /usr/lib/gcc/x86_64-redhat-linux/15/include/float.h \
  /usr/lib/gcc/x86_64-redhat-linux/15/include/stdarg.h \
  /usr/lib/gcc/x86_64-redhat-linux/15/include/stddef.h \
@@ -13,7 +13,7 @@ CMakeFiles/bloodstrike_linux.dir/libs/imgui/backends/imgui_impl_vulkan.cpp.o: \
  /usr/include/gnu/stubs.h /usr/include/gnu/stubs-64.h \
  /usr/include/bits/types/locale_t.h /usr/include/bits/types/__locale_t.h \
  /usr/include/strings.h /usr/include/assert.h \
- /home/jigga/Documents/GitHub/bloodstrike_linux/libs/imgui/backends/imgui_impl_vulkan.h \
+ /home/jigga/Documents/bloodstrike_linux/bloodstrike_linux/libs/imgui/backends/imgui_impl_vulkan.h \
  /usr/include/vulkan/vulkan.h /usr/include/vulkan/vk_platform.h \
  /usr/lib/gcc/x86_64-redhat-linux/15/include/stdint.h \
  /usr/include/stdint.h /usr/include/bits/types.h \

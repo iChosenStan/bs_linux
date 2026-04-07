@@ -1,7 +1,7 @@
 CMakeFiles/bloodstrike_linux.dir/src/input.cpp.o: \
- /home/jigga/Documents/GitHub/bloodstrike_linux/src/input.cpp \
+ /home/jigga/Documents/bloodstrike_linux/bloodstrike_linux/src/input.cpp \
  /usr/include/stdc-predef.h \
- /home/jigga/Documents/GitHub/bloodstrike_linux/src/input.h \
+ /home/jigga/Documents/bloodstrike_linux/bloodstrike_linux/src/input.h \
  /usr/include/c++/15/cstdint \
  /usr/include/c++/15/x86_64-redhat-linux/bits/c++config.h \
  /usr/include/bits/wordsize.h \

@@ -1,7 +1,7 @@
 CMakeFiles/bloodstrike_linux.dir/src/main.cpp.o: \
- /home/jigga/Documents/GitHub/bloodstrike_linux/src/main.cpp \
+ /home/jigga/Documents/bloodstrike_linux/bloodstrike_linux/src/main.cpp \
  /usr/include/stdc-predef.h \
- /home/jigga/Documents/GitHub/bloodstrike_linux/src/cheat_features.h \
+ /home/jigga/Documents/bloodstrike_linux/bloodstrike_linux/src/cheat_features.h \
  /usr/include/c++/15/cstdint \
  /usr/include/c++/15/x86_64-redhat-linux/bits/c++config.h \
  /usr/include/bits/wordsize.h \
@@ -72,9 +72,9 @@ CMakeFiles/bloodstrike_linux.dir/src/main.cpp.o: \
  /usr/include/c++/15/cerrno /usr/include/c++/15/ext/atomicity.h \
  /usr/include/c++/15/x86_64-redhat-linux/bits/atomic_word.h \
  /usr/include/sys/single_threaded.h \
- /home/jigga/Documents/GitHub/bloodstrike_linux/src/offsets.h \
- /home/jigga/Documents/GitHub/bloodstrike_linux/src/menu.h \
- /home/jigga/Documents/GitHub/bloodstrike_linux/src/renderer.h \
+ /home/jigga/Documents/bloodstrike_linux/bloodstrike_linux/src/offsets.h \
+ /home/jigga/Documents/bloodstrike_linux/bloodstrike_linux/src/menu.h \
+ /home/jigga/Documents/bloodstrike_linux/bloodstrike_linux/src/renderer.h \
  /usr/include/vulkan/vulkan.h /usr/include/vulkan/vk_platform.h \
  /usr/include/vulkan/vulkan_core.h \
  /usr/include/vk_video/vulkan_video_codec_h264std.h \
@@ -93,8 +93,8 @@ CMakeFiles/bloodstrike_linux.dir/src/main.cpp.o: \
  /usr/include/vk_video/vulkan_video_codec_vp9std.h \
  /usr/include/vk_video/vulkan_video_codec_vp9std_decode.h \
  /usr/include/vk_video/vulkan_video_codec_vp9std.h \
- /home/jigga/Documents/GitHub/bloodstrike_linux/src/input.h \
- /home/jigga/Documents/GitHub/bloodstrike_linux/src/injector.h \
+ /home/jigga/Documents/bloodstrike_linux/bloodstrike_linux/src/input.h \
+ /home/jigga/Documents/bloodstrike_linux/bloodstrike_linux/src/injector.h \
  /usr/include/c++/15/string /usr/include/c++/15/bits/stringfwd.h \
  /usr/include/c++/15/bits/memoryfwd.h \
  /usr/include/c++/15/bits/char_traits.h \
@@ -156,7 +156,7 @@ CMakeFiles/bloodstrike_linux.dir/src/main.cpp.o: \
  /usr/include/c++/15/bits/stl_vector.h \
  /usr/include/c++/15/bits/stl_bvector.h \
  /usr/include/c++/15/bits/vector.tcc \
- /home/jigga/Documents/GitHub/bloodstrike_linux/src/hooks.h \
+ /home/jigga/Documents/bloodstrike_linux/bloodstrike_linux/src/hooks.h \
  /usr/include/c++/15/functional /usr/include/c++/15/bits/std_function.h \
  /usr/include/c++/15/typeinfo /usr/include/c++/15/unordered_map \
  /usr/include/c++/15/bits/unordered_map.h \
@@ -167,7 +167,7 @@ CMakeFiles/bloodstrike_linux.dir/src/main.cpp.o: \
  /usr/include/c++/15/bits/node_handle.h \
  /usr/include/c++/15/bits/erase_if.h /usr/include/c++/15/array \
  /usr/include/c++/15/compare \
- /home/jigga/Documents/GitHub/bloodstrike_linux/src/game_offsets.h \
+ /home/jigga/Documents/bloodstrike_linux/bloodstrike_linux/src/game_offsets.h \
  /usr/include/c++/15/cmath /usr/include/math.h \
  /usr/include/bits/math-vector.h /usr/include/bits/libm-simd-decl-stubs.h \
  /usr/include/bits/flt-eval-method.h /usr/include/bits/fp-logb.h \
@@ -187,7 +187,7 @@ CMakeFiles/bloodstrike_linux.dir/src/main.cpp.o: \
  /usr/include/c++/15/tr1/poly_hermite.tcc \
  /usr/include/c++/15/tr1/poly_laguerre.tcc \
  /usr/include/c++/15/tr1/riemann_zeta.tcc \
- /home/jigga/Documents/GitHub/bloodstrike_linux/src/entity_manager.h \
+ /home/jigga/Documents/bloodstrike_linux/bloodstrike_linux/src/entity_manager.h \
  /usr/include/c++/15/memory /usr/include/c++/15/bits/stl_tempbuf.h \
  /usr/include/c++/15/bits/stl_raw_storage_iter.h \
  /usr/include/c++/15/bits/align.h /usr/include/c++/15/bits/unique_ptr.h \
@@ -203,14 +203,14 @@ CMakeFiles/bloodstrike_linux.dir/src/main.cpp.o: \
  /usr/include/c++/15/pstl/glue_memory_defs.h \
  /usr/include/c++/15/pstl/execution_defs.h /usr/include/c++/15/cstring \
  /usr/include/string.h /usr/include/strings.h \
- /home/jigga/Documents/GitHub/bloodstrike_linux/src/aimbot.h \
- /home/jigga/Documents/GitHub/bloodstrike_linux/src/esp.h \
- /home/jigga/Documents/GitHub/bloodstrike_linux/src/pixelbot.h \
+ /home/jigga/Documents/bloodstrike_linux/bloodstrike_linux/src/aimbot.h \
+ /home/jigga/Documents/bloodstrike_linux/bloodstrike_linux/src/esp.h \
+ /home/jigga/Documents/bloodstrike_linux/bloodstrike_linux/src/pixelbot.h \
  /usr/include/X11/Xlib.h /usr/include/X11/X.h \
  /usr/include/X11/Xfuncproto.h /usr/include/X11/Xosdefs.h \
  /usr/include/X11/Xutil.h /usr/include/X11/keysym.h \
  /usr/include/X11/keysymdef.h \
- /home/jigga/Documents/GitHub/bloodstrike_linux/src/anticheat_bypass.h \
+ /home/jigga/Documents/bloodstrike_linux/bloodstrike_linux/src/anticheat_bypass.h \
  /usr/include/c++/15/thread /usr/include/c++/15/bits/std_thread.h \
  /usr/include/c++/15/bits/this_thread_sleep.h /usr/include/c++/15/chrono \
  /usr/include/signal.h /usr/include/bits/signum-generic.h \

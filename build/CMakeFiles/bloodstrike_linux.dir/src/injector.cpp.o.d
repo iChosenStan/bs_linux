@@ -1,7 +1,7 @@
 CMakeFiles/bloodstrike_linux.dir/src/injector.cpp.o: \
- /home/jigga/Documents/GitHub/bloodstrike_linux/src/injector.cpp \
+ /home/jigga/Documents/bloodstrike_linux/bloodstrike_linux/src/injector.cpp \
  /usr/include/stdc-predef.h \
- /home/jigga/Documents/GitHub/bloodstrike_linux/src/injector.h \
+ /home/jigga/Documents/bloodstrike_linux/bloodstrike_linux/src/injector.h \
  /usr/include/c++/15/cstdint \
  /usr/include/c++/15/x86_64-redhat-linux/bits/c++config.h \
  /usr/include/bits/wordsize.h \

@@ -1,5 +1,5 @@
 CMakeFiles/bloodstrike_loader.dir/src/loader_gui.cpp.o: \
- /home/jigga/Documents/GitHub/bloodstrike_linux/src/loader_gui.cpp \
+ /home/jigga/Documents/bloodstrike_linux/bloodstrike_linux/src/loader_gui.cpp \
  /usr/include/stdc-predef.h /usr/include/gtk-3.0/gtk/gtk.h \
  /usr/include/gtk-3.0/gdk/gdk.h /usr/include/gtk-3.0/gdk/gdkconfig.h \
  /usr/include/glib-2.0/glib.h /usr/include/glib-2.0/glib/galloca.h \
@@ -733,7 +733,7 @@ CMakeFiles/bloodstrike_loader.dir/src/loader_gui.cpp.o: \
  /usr/include/c++/15/atomic /usr/include/c++/15/bits/atomic_base.h \
  /usr/include/c++/15/new /usr/include/c++/15/bits/exception.h \
  /usr/include/c++/15/bits/atomic_lockfree_defines.h \
- /home/jigga/Documents/GitHub/bloodstrike_linux/src/offset_scanner.h \
+ /home/jigga/Documents/bloodstrike_linux/bloodstrike_linux/src/offset_scanner.h \
  /usr/include/c++/15/string /usr/include/c++/15/bits/char_traits.h \
  /usr/include/c++/15/bits/allocator.h \
  /usr/include/c++/15/x86_64-redhat-linux/bits/c++allocator.h \

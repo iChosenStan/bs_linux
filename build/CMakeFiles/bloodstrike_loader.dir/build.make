@@ -53,10 +53,10 @@ RM = /usr/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/jigga/Documents/GitHub/bloodstrike_linux
+CMAKE_SOURCE_DIR = /home/jigga/Documents/bloodstrike_linux/bloodstrike_linux
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/jigga/Documents/GitHub/bloodstrike_linux/build
+CMAKE_BINARY_DIR = /home/jigga/Documents/bloodstrike_linux/bloodstrike_linux/build
 
 # Include any dependencies generated for this target.
 include CMakeFiles/bloodstrike_loader.dir/depend.make
@@ -73,46 +73,46 @@ CMakeFiles/bloodstrike_loader.dir/codegen:
 .PHONY : CMakeFiles/bloodstrike_loader.dir/codegen
 
 CMakeFiles/bloodstrike_loader.dir/src/loader_gui.cpp.o: CMakeFiles/bloodstrike_loader.dir/flags.make
-CMakeFiles/bloodstrike_loader.dir/src/loader_gui.cpp.o: /home/jigga/Documents/GitHub/bloodstrike_linux/src/loader_gui.cpp
+CMakeFiles/bloodstrike_loader.dir/src/loader_gui.cpp.o: /home/jigga/Documents/bloodstrike_linux/bloodstrike_linux/src/loader_gui.cpp
 CMakeFiles/bloodstrike_loader.dir/src/loader_gui.cpp.o: CMakeFiles/bloodstrike_loader.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/jigga/Documents/GitHub/bloodstrike_linux/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/bloodstrike_loader.dir/src/loader_gui.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/bloodstrike_loader.dir/src/loader_gui.cpp.o -MF CMakeFiles/bloodstrike_loader.dir/src/loader_gui.cpp.o.d -o CMakeFiles/bloodstrike_loader.dir/src/loader_gui.cpp.o -c /home/jigga/Documents/GitHub/bloodstrike_linux/src/loader_gui.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/jigga/Documents/bloodstrike_linux/bloodstrike_linux/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/bloodstrike_loader.dir/src/loader_gui.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/bloodstrike_loader.dir/src/loader_gui.cpp.o -MF CMakeFiles/bloodstrike_loader.dir/src/loader_gui.cpp.o.d -o CMakeFiles/bloodstrike_loader.dir/src/loader_gui.cpp.o -c /home/jigga/Documents/bloodstrike_linux/bloodstrike_linux/src/loader_gui.cpp
 
 CMakeFiles/bloodstrike_loader.dir/src/loader_gui.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/bloodstrike_loader.dir/src/loader_gui.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/jigga/Documents/GitHub/bloodstrike_linux/src/loader_gui.cpp > CMakeFiles/bloodstrike_loader.dir/src/loader_gui.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/jigga/Documents/bloodstrike_linux/bloodstrike_linux/src/loader_gui.cpp > CMakeFiles/bloodstrike_loader.dir/src/loader_gui.cpp.i
 
 CMakeFiles/bloodstrike_loader.dir/src/loader_gui.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/bloodstrike_loader.dir/src/loader_gui.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/jigga/Documents/GitHub/bloodstrike_linux/src/loader_gui.cpp -o CMakeFiles/bloodstrike_loader.dir/src/loader_gui.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/jigga/Documents/bloodstrike_linux/bloodstrike_linux/src/loader_gui.cpp -o CMakeFiles/bloodstrike_loader.dir/src/loader_gui.cpp.s
 
 CMakeFiles/bloodstrike_loader.dir/src/stealth_injector.cpp.o: CMakeFiles/bloodstrike_loader.dir/flags.make
-CMakeFiles/bloodstrike_loader.dir/src/stealth_injector.cpp.o: /home/jigga/Documents/GitHub/bloodstrike_linux/src/stealth_injector.cpp
+CMakeFiles/bloodstrike_loader.dir/src/stealth_injector.cpp.o: /home/jigga/Documents/bloodstrike_linux/bloodstrike_linux/src/stealth_injector.cpp
 CMakeFiles/bloodstrike_loader.dir/src/stealth_injector.cpp.o: CMakeFiles/bloodstrike_loader.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/jigga/Documents/GitHub/bloodstrike_linux/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/bloodstrike_loader.dir/src/stealth_injector.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/bloodstrike_loader.dir/src/stealth_injector.cpp.o -MF CMakeFiles/bloodstrike_loader.dir/src/stealth_injector.cpp.o.d -o CMakeFiles/bloodstrike_loader.dir/src/stealth_injector.cpp.o -c /home/jigga/Documents/GitHub/bloodstrike_linux/src/stealth_injector.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/jigga/Documents/bloodstrike_linux/bloodstrike_linux/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/bloodstrike_loader.dir/src/stealth_injector.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/bloodstrike_loader.dir/src/stealth_injector.cpp.o -MF CMakeFiles/bloodstrike_loader.dir/src/stealth_injector.cpp.o.d -o CMakeFiles/bloodstrike_loader.dir/src/stealth_injector.cpp.o -c /home/jigga/Documents/bloodstrike_linux/bloodstrike_linux/src/stealth_injector.cpp
 
 CMakeFiles/bloodstrike_loader.dir/src/stealth_injector.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/bloodstrike_loader.dir/src/stealth_injector.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/jigga/Documents/GitHub/bloodstrike_linux/src/stealth_injector.cpp > CMakeFiles/bloodstrike_loader.dir/src/stealth_injector.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/jigga/Documents/bloodstrike_linux/bloodstrike_linux/src/stealth_injector.cpp > CMakeFiles/bloodstrike_loader.dir/src/stealth_injector.cpp.i
 
 CMakeFiles/bloodstrike_loader.dir/src/stealth_injector.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/bloodstrike_loader.dir/src/stealth_injector.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/jigga/Documents/GitHub/bloodstrike_linux/src/stealth_injector.cpp -o CMakeFiles/bloodstrike_loader.dir/src/stealth_injector.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/jigga/Documents/bloodstrike_linux/bloodstrike_linux/src/stealth_injector.cpp -o CMakeFiles/bloodstrike_loader.dir/src/stealth_injector.cpp.s
 
 CMakeFiles/bloodstrike_loader.dir/src/offset_scanner.cpp.o: CMakeFiles/bloodstrike_loader.dir/flags.make
-CMakeFiles/bloodstrike_loader.dir/src/offset_scanner.cpp.o: /home/jigga/Documents/GitHub/bloodstrike_linux/src/offset_scanner.cpp
+CMakeFiles/bloodstrike_loader.dir/src/offset_scanner.cpp.o: /home/jigga/Documents/bloodstrike_linux/bloodstrike_linux/src/offset_scanner.cpp
 CMakeFiles/bloodstrike_loader.dir/src/offset_scanner.cpp.o: CMakeFiles/bloodstrike_loader.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/jigga/Documents/GitHub/bloodstrike_linux/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/bloodstrike_loader.dir/src/offset_scanner.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/bloodstrike_loader.dir/src/offset_scanner.cpp.o -MF CMakeFiles/bloodstrike_loader.dir/src/offset_scanner.cpp.o.d -o CMakeFiles/bloodstrike_loader.dir/src/offset_scanner.cpp.o -c /home/jigga/Documents/GitHub/bloodstrike_linux/src/offset_scanner.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/jigga/Documents/bloodstrike_linux/bloodstrike_linux/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/bloodstrike_loader.dir/src/offset_scanner.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/bloodstrike_loader.dir/src/offset_scanner.cpp.o -MF CMakeFiles/bloodstrike_loader.dir/src/offset_scanner.cpp.o.d -o CMakeFiles/bloodstrike_loader.dir/src/offset_scanner.cpp.o -c /home/jigga/Documents/bloodstrike_linux/bloodstrike_linux/src/offset_scanner.cpp
 
 CMakeFiles/bloodstrike_loader.dir/src/offset_scanner.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/bloodstrike_loader.dir/src/offset_scanner.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/jigga/Documents/GitHub/bloodstrike_linux/src/offset_scanner.cpp > CMakeFiles/bloodstrike_loader.dir/src/offset_scanner.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/jigga/Documents/bloodstrike_linux/bloodstrike_linux/src/offset_scanner.cpp > CMakeFiles/bloodstrike_loader.dir/src/offset_scanner.cpp.i
 
 CMakeFiles/bloodstrike_loader.dir/src/offset_scanner.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/bloodstrike_loader.dir/src/offset_scanner.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/jigga/Documents/GitHub/bloodstrike_linux/src/offset_scanner.cpp -o CMakeFiles/bloodstrike_loader.dir/src/offset_scanner.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/jigga/Documents/bloodstrike_linux/bloodstrike_linux/src/offset_scanner.cpp -o CMakeFiles/bloodstrike_loader.dir/src/offset_scanner.cpp.s
 
 # Object files for target bloodstrike_loader
 bloodstrike_loader_OBJECTS = \
@@ -129,7 +129,7 @@ bloodstrike-loader: CMakeFiles/bloodstrike_loader.dir/src/offset_scanner.cpp.o
 bloodstrike-loader: CMakeFiles/bloodstrike_loader.dir/build.make
 bloodstrike-loader: CMakeFiles/bloodstrike_loader.dir/compiler_depend.ts
 bloodstrike-loader: CMakeFiles/bloodstrike_loader.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/home/jigga/Documents/GitHub/bloodstrike_linux/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Linking CXX executable bloodstrike-loader"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/home/jigga/Documents/bloodstrike_linux/bloodstrike_linux/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Linking CXX executable bloodstrike-loader"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/bloodstrike_loader.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -141,6 +141,6 @@ CMakeFiles/bloodstrike_loader.dir/clean:
 .PHONY : CMakeFiles/bloodstrike_loader.dir/clean
 
 CMakeFiles/bloodstrike_loader.dir/depend:
-	cd /home/jigga/Documents/GitHub/bloodstrike_linux/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/jigga/Documents/GitHub/bloodstrike_linux /home/jigga/Documents/GitHub/bloodstrike_linux /home/jigga/Documents/GitHub/bloodstrike_linux/build /home/jigga/Documents/GitHub/bloodstrike_linux/build /home/jigga/Documents/GitHub/bloodstrike_linux/build/CMakeFiles/bloodstrike_loader.dir/DependInfo.cmake "--color=$(COLOR)"
+	cd /home/jigga/Documents/bloodstrike_linux/bloodstrike_linux/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/jigga/Documents/bloodstrike_linux/bloodstrike_linux /home/jigga/Documents/bloodstrike_linux/bloodstrike_linux /home/jigga/Documents/bloodstrike_linux/bloodstrike_linux/build /home/jigga/Documents/bloodstrike_linux/bloodstrike_linux/build /home/jigga/Documents/bloodstrike_linux/bloodstrike_linux/build/CMakeFiles/bloodstrike_loader.dir/DependInfo.cmake "--color=$(COLOR)"
 .PHONY : CMakeFiles/bloodstrike_loader.dir/depend
 

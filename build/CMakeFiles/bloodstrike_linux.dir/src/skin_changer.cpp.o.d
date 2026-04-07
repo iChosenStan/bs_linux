@@ -1,7 +1,7 @@
 CMakeFiles/bloodstrike_linux.dir/src/skin_changer.cpp.o: \
- /home/jigga/Documents/GitHub/bloodstrike_linux/src/skin_changer.cpp \
+ /home/jigga/Documents/bloodstrike_linux/bloodstrike_linux/src/skin_changer.cpp \
  /usr/include/stdc-predef.h \
- /home/jigga/Documents/GitHub/bloodstrike_linux/src/skin_changer.h \
+ /home/jigga/Documents/bloodstrike_linux/bloodstrike_linux/src/skin_changer.h \
  /usr/include/c++/15/cstdint \
  /usr/include/c++/15/x86_64-redhat-linux/bits/c++config.h \
  /usr/include/bits/wordsize.h \
@@ -113,7 +113,7 @@ CMakeFiles/bloodstrike_linux.dir/src/skin_changer.cpp.o: \
  /usr/include/c++/15/bits/stl_map.h \
  /usr/include/c++/15/bits/stl_multimap.h \
  /usr/include/c++/15/bits/erase_if.h \
- /home/jigga/Documents/GitHub/bloodstrike_linux/src/game_offsets.h \
+ /home/jigga/Documents/bloodstrike_linux/bloodstrike_linux/src/game_offsets.h \
  /usr/include/c++/15/cmath /usr/include/math.h \
  /usr/include/bits/math-vector.h /usr/include/bits/libm-simd-decl-stubs.h \
  /usr/include/bits/flt-eval-method.h /usr/include/bits/fp-logb.h \

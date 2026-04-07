@@ -4,7 +4,7 @@
 # compile CXX with /usr/bin/c++
 CXX_DEFINES = 
 
-CXX_INCLUDES = -I/home/jigga/Documents/GitHub/bloodstrike_linux/src -I/home/jigga/Documents/GitHub/bloodstrike_linux/libs/imgui -I/home/jigga/Documents/GitHub/bloodstrike_linux/libs/imgui/backends
+CXX_INCLUDES = -I/home/jigga/Documents/bloodstrike_linux/bloodstrike_linux/src -I/home/jigga/Documents/bloodstrike_linux/bloodstrike_linux/libs/imgui -I/home/jigga/Documents/bloodstrike_linux/bloodstrike_linux/libs/imgui/backends
 
 CXX_FLAGS = -O3 -DNDEBUG -std=gnu++17 -fPIE
 

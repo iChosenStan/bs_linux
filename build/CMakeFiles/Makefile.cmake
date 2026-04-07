@@ -7,7 +7,7 @@ set(CMAKE_DEPENDS_GENERATOR "Unix Makefiles")
 # The top level Makefile was generated from the following files:
 set(CMAKE_MAKEFILE_DEPENDS
   "CMakeCache.txt"
-  "/home/jigga/Documents/GitHub/bloodstrike_linux/CMakeLists.txt"
+  "/home/jigga/Documents/bloodstrike_linux/bloodstrike_linux/CMakeLists.txt"
   "CMakeFiles/3.31.10/CMakeCXXCompiler.cmake"
   "CMakeFiles/3.31.10/CMakeSystem.cmake"
   "/usr/share/cmake/Modules/CMakeCXXInformation.cmake"

@@ -1,7 +1,7 @@
 CMakeFiles/bloodstrike_linux.dir/src/aimbot.cpp.o: \
- /home/jigga/Documents/GitHub/bloodstrike_linux/src/aimbot.cpp \
+ /home/jigga/Documents/bloodstrike_linux/bloodstrike_linux/src/aimbot.cpp \
  /usr/include/stdc-predef.h \
- /home/jigga/Documents/GitHub/bloodstrike_linux/src/aimbot.h \
+ /home/jigga/Documents/bloodstrike_linux/bloodstrike_linux/src/aimbot.h \
  /usr/include/c++/15/atomic /usr/include/c++/15/bits/version.h \
  /usr/include/c++/15/x86_64-redhat-linux/bits/c++config.h \
  /usr/include/bits/wordsize.h \
@@ -108,7 +108,7 @@ CMakeFiles/bloodstrike_linux.dir/src/aimbot.cpp.o: \
  /usr/include/c++/15/cerrno /usr/include/c++/15/ext/atomicity.h \
  /usr/include/c++/15/x86_64-redhat-linux/bits/atomic_word.h \
  /usr/include/sys/single_threaded.h \
- /home/jigga/Documents/GitHub/bloodstrike_linux/src/entity_manager.h \
+ /home/jigga/Documents/bloodstrike_linux/bloodstrike_linux/src/entity_manager.h \
  /usr/include/c++/15/memory /usr/include/c++/15/bits/stl_tempbuf.h \
  /usr/include/c++/15/bits/stl_raw_storage_iter.h \
  /usr/include/c++/15/bits/align.h /usr/include/c++/15/bits/unique_ptr.h \
@@ -157,7 +157,7 @@ CMakeFiles/bloodstrike_linux.dir/src/aimbot.cpp.o: \
  /usr/include/c++/15/tr1/poly_laguerre.tcc \
  /usr/include/c++/15/tr1/riemann_zeta.tcc /usr/include/c++/15/cstring \
  /usr/include/string.h /usr/include/strings.h \
- /home/jigga/Documents/GitHub/bloodstrike_linux/src/game_offsets.h \
+ /home/jigga/Documents/bloodstrike_linux/bloodstrike_linux/src/game_offsets.h \
  /usr/include/c++/15/random /usr/include/c++/15/cstdlib \
  /usr/include/c++/15/string /usr/include/c++/15/bits/char_traits.h \
  /usr/include/c++/15/bits/localefwd.h \

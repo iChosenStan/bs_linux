@@ -1,4 +1,4 @@
-# Install script for directory: /home/jigga/Documents/GitHub/bloodstrike_linux
+# Install script for directory: /home/jigga/Documents/bloodstrike_linux/bloodstrike_linux
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -49,7 +49,7 @@ if(CMAKE_INSTALL_COMPONENT STREQUAL "Unspecified" OR NOT CMAKE_INSTALL_COMPONENT
          FILE "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/lib/libbloodstrike.so"
          RPATH "")
   endif()
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib" TYPE SHARED_LIBRARY FILES "/home/jigga/Documents/GitHub/bloodstrike_linux/build/libbloodstrike.so")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib" TYPE SHARED_LIBRARY FILES "/home/jigga/Documents/bloodstrike_linux/bloodstrike_linux/build/libbloodstrike.so")
   if(EXISTS "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/lib/libbloodstrike.so" AND
      NOT IS_SYMLINK "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/lib/libbloodstrike.so")
     if(CMAKE_INSTALL_DO_STRIP)
@@ -68,7 +68,7 @@ if(CMAKE_INSTALL_COMPONENT STREQUAL "Unspecified" OR NOT CMAKE_INSTALL_COMPONENT
          FILE "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/bin/bloodstrike-injector"
          RPATH "")
   endif()
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/bin" TYPE EXECUTABLE FILES "/home/jigga/Documents/GitHub/bloodstrike_linux/build/bloodstrike-injector")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/bin" TYPE EXECUTABLE FILES "/home/jigga/Documents/bloodstrike_linux/bloodstrike_linux/build/bloodstrike-injector")
   if(EXISTS "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/bin/bloodstrike-injector" AND
      NOT IS_SYMLINK "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/bin/bloodstrike-injector")
     if(CMAKE_INSTALL_DO_STRIP)
@@ -80,7 +80,7 @@ endif()
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
 if(CMAKE_INSTALL_LOCAL_ONLY)
-  file(WRITE "/home/jigga/Documents/GitHub/bloodstrike_linux/build/install_local_manifest.txt"
+  file(WRITE "/home/jigga/Documents/bloodstrike_linux/bloodstrike_linux/build/install_local_manifest.txt"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
 endif()
 if(CMAKE_INSTALL_COMPONENT)
@@ -96,6 +96,6 @@ else()
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
-  file(WRITE "/home/jigga/Documents/GitHub/bloodstrike_linux/build/${CMAKE_INSTALL_MANIFEST}"
+  file(WRITE "/home/jigga/Documents/bloodstrike_linux/bloodstrike_linux/build/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
 endif()

@@ -8,8 +8,8 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "/home/jigga/Documents/GitHub/bloodstrike_linux/src/injector_main.cpp" "CMakeFiles/bloodstrike_injector.dir/src/injector_main.cpp.o" "gcc" "CMakeFiles/bloodstrike_injector.dir/src/injector_main.cpp.o.d"
-  "/home/jigga/Documents/GitHub/bloodstrike_linux/src/stealth_injector.cpp" "CMakeFiles/bloodstrike_injector.dir/src/stealth_injector.cpp.o" "gcc" "CMakeFiles/bloodstrike_injector.dir/src/stealth_injector.cpp.o.d"
+  "/home/jigga/Documents/bloodstrike_linux/bloodstrike_linux/src/injector_main.cpp" "CMakeFiles/bloodstrike_injector.dir/src/injector_main.cpp.o" "gcc" "CMakeFiles/bloodstrike_injector.dir/src/injector_main.cpp.o.d"
+  "/home/jigga/Documents/bloodstrike_linux/bloodstrike_linux/src/stealth_injector.cpp" "CMakeFiles/bloodstrike_injector.dir/src/stealth_injector.cpp.o" "gcc" "CMakeFiles/bloodstrike_injector.dir/src/stealth_injector.cpp.o.d"
   "" "bloodstrike-injector" "gcc" "CMakeFiles/bloodstrike_injector.dir/link.d"
   )
 
