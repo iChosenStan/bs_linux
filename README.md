@@ -1,6 +1,6 @@
-# BloodStrike Linux: Premium Loader & Injector
+# Premium Loader & Injector
 
-A professional-grade Linux injection suite for BloodStrike, optimized for Fedora/Noabara. Featuring a stealthy ptrace-based injector and a modern Expo-powered development server for a premium UI experience.
+A professional-grade Linux injection suite, optimized for Fedora/Noabara. Featuring a stealthy ptrace-based injector and a modern Expo-powered development server for a premium UI experience.
 
 ## 🚀 Quick Start (Injection)
 
@@ -9,8 +9,8 @@ A professional-grade Linux injection suite for BloodStrike, optimized for Fedora
 - **Ptrace Scope**: Run `echo 0 | sudo tee /proc/sys/kernel/yama/ptrace_scope` (Managed by System Doctor)
 - **Game**: BloodStrike (running via Steam/Proton)
 
-### 2. Injecting while the Game is Running
-To inject the cheat into the running game process, use the CLI injector for maximum reliability:
+### 2. Injecting while is Running
+To inject the cheat into the running process, use the CLI injector for maximum reliability:
 
 ```bash
 # 1. Navigate to the build directory
@@ -19,7 +19,7 @@ cd build
 # 2. Run the injector with root privileges
 # -p bloodstrike: Targets the game process by name
 # -l ./libbloodstrike.so: Paths to the cheat library
-# -m 4: Uses the specialized Wine/Proton injection method (REQUIRED for BloodStrike)
+# -m 4: Uses the specialized Wine/Proton injection method (REQUIRED for BS)
 # -v: Enables verbose logging to see exactly what's happening
 sudo ./bloodstrike-injector -p bloodstrike -l ./libbloodstrike.so -m 4 -v
 ```
@@ -38,7 +38,7 @@ We've replaced the original interface with a modern Expo-powered UI.
 3. **In the UI**:
    - Check the **System Doctor** to ensure your environment is ready.
    - Select the **Proton/Wine** method.
-   - Click **INJECT CHEAT**.
+   - Click **INJECT**.
 
 ## 🛠️ Components
 
